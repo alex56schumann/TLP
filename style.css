@@ -7,8 +7,8 @@ html{
         
 }
 #toplogo{
-    height: 100px;
-    width: 20%;
+    height: auto;
+    width: 25%;
     margin-left: 0%;
     margin-top: 5px;
 }
@@ -38,4 +38,22 @@ a{
     height: 400px;
     width: auto;
     border: #FC8EAC solid 1px;
+}
+#googleform{
+    margin-top: 25px;
+    width: 50%;
+    margin-left: 25%;
+}
+#bio{
+    text-align: center;
+    color: #FC8EAC;
+    font-family: big shoulders;
+    width: 100%;
+    height: auto;
+}
+#bio p{
+    color: #9e9e9e;
+}
+#bio h1{
+    text-transform: uppercase;
 }
